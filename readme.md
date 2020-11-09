@@ -25,5 +25,6 @@ Ejercicios para practicar con la interpolación y el binding de propiedades y ev
 
 ## Ejercicios de Binding de eventos + propiedades
 
-Crea un selector para seleccionar entre dos imagenes. La imagen seleccionada se debe mostrar debajo del selector.
+1. Crea un selector para seleccionar entre dos imagenes. La imagen seleccionada se debe mostrar debajo del selector.
 
+2. Captura el texto escrito en un input y muéstralo en un párrafo
