@@ -2,6 +2,13 @@
 
 Ejercicios para practicar con la interpolación y el binding de propiedades y eventos en Angular.
 
+## Iteración 1
+Crea un nuevo proyecto  angular-binding. Con 3 componentes:
+- home: tendra un enlace a cada uno de los otros dos componentes
+- interpolacion: donde se resolverán los ejercicios de interpolación
+- binding: donde se resolverán los ejercicios de binding.
+_tip_: has de implementar routing.
+
 ## Ejercicios Interpolación
 
 1. A partir de un objeto user{name: 'John', surname: 'Smith' address: '13 Pine Street'}
