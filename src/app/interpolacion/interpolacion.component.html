@@ -1,0 +1,15 @@
+<h1>Ejercicios de Interpolación</h1>
+<hr>
+<ol>
+  <li>El valor de direccion es: <span> {{user.address}}</span></li>
+  <li>User name: <span> {{user.name +' '+user.surname}}</span></li>
+  <li>La suma de 2 y 2 es: <span> {{2+2}}</span></li>
+  <li>Duplicar Texto Hola Mundo: <span> {{duplicarTexto('Hola Mundo')}}</span></li>
+  <li  *ngIf="!persona2?.edad"><span>No existe Persona2</span></li>
+  <li><span>{{concatenarCadenas(user.name,user.surname)}}</span></li>
+  <li><p>{{parrafo}}</p></li>
+  <input type="text" value={{parrafo}}>
+</ol>
+
+<!-- <a href='..'>Back</a> -->
+<a routerLink='..'>Back</a>
